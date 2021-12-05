@@ -1,9 +1,9 @@
 [package]
 name = "pakr-assert-size"
 authors = ["Pawel Kraszewski <pawel@kraszewscy.net>"]
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
-description = "Runtime checks of the size of structures"
+description = "Compile-time checks of the size of structures"
 keywords = ["sizeof","struct","ffi"]
 categories = ["development-tools::ffi","development-tools::testing","memory-management"]
 repository = "https://github.com/p-kraszewski/pakr-assert-size"

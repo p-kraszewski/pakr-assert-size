@@ -23,7 +23,7 @@ struct B {
 
 ## Failure (real size is 24 bytes, expected is 32 bytes):
 ```rust
-# use pakr_assert_size::*;
+use pakr_assert_size::*;
 
 #[assert_size(32)]
 #[repr(C, packed)]
